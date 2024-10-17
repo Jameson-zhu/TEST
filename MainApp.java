@@ -11,6 +11,7 @@ public class MainApp {
     public static void main(String[] args){
 
 
+        //test-test
         String a = "abc1234.44444efg";
         //String a = "abc1234";
         String numberStr = extractNumberStr( a );
